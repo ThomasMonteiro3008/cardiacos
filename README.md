@@ -1,2 +1,4 @@
 # cardiacos
--Análise de dados com foco na construção de gráficos com a biblitoteca pandas
+
+\-Análise de dados com foco na construção de gráficos com as biblitotecas pandas, matplolib e seaborn.
+
